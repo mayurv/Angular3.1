@@ -6,3 +6,8 @@ int main()
   
   return 0;
 }
+
+void fun()
+{
+  printf("Inside fun");
+}
